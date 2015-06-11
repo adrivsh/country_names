@@ -10,7 +10,8 @@ If you know a better repo tell me. If you have more matches send me (or fork thi
 
 ##GOTCHAS
 
-* The European Union uses codes that look like iso2 but are actually slightly different. EU uses "EL" for "GR" (Greece in iso2) and "UK" for "GB" (Great Britain in iso2).
+* The European Union uses codes that look like iso2 but are actually slightly different. EU uses "EL" for "GR" (Greece in iso2) and "UK" for "GB" (Great Britain in iso2). In python pandas use .replace({"EL":"GR","UK":"GB"})
 * Some people use old iso3 codes. replace "ROM" with "ROU" and "ZAR" with "COD" to go from old to new iso3
+in python pandas use .replace({"ROM":"ROU","ZAR":"COD"})
 
 

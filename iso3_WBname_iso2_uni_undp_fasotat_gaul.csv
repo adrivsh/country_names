@@ -1,0 +1,195 @@
+iso3,wb_name,short name,official name,iso2,uni,undp,faostat,gaul
+AFG,Afghanistan,Afghanistan,The Islamic Republic of Afghanistan,AF,4,AFG,2,1
+AGO,Angola,Angola,the Republic of Angola,AO,24,ANG,7,8
+ALB,Albania,Albania,the Republic of Albania,AL,8,ALB,3,3
+AND,Andorra,Andorra,the Principality of Andorra,AD,20,AND,6,7
+ARE,United Arab Emirates,United Arab Emirates,the United Arab Emirates,AE,784,UAE,225,255
+ARG,Argentina,Argentina,the Argentine Republic,AR,32,ARG,9,12
+ARM,Armenia,Armenia,the Republic of Armenia,AM,51,ARM,1,13
+ATG,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AG,28,ANT,8,11
+AUS,Australia,Australia,Australia,AU,36,AUL,10,17
+AUT,Austria,Austria,the Republic of Austria,AT,40,AUS,11,18
+AZE,Azerbaijan,Azerbaijan,the Republic of Azerbaijan,AZ,31,AZE,52,19
+BDI,Burundi,Burundi,the Republic of Burundi,BI,108,BDI,29,43
+BEL,Belgium,Belgium,the Kingdom of Belgium,BE,56,BEL,255,27
+BEN,Benin,Benin,the Republic of Benin,BJ,204,BEN,53,29
+BFA,Burkina Faso,Burkina Faso,Burkina Faso,BF,854,BKF,233,42
+BGD,Bangladesh,Bangladesh,the People's Republic of Bangladesh,BD,50,BGD,16,23
+BGR,Bulgaria,Bulgaria,the Republic of Bulgaria,BG,100,BUL,27,41
+BHR,Bahrain,Bahrain,the Kingdom of Bahrain,BH,48,BAH,13,21
+BHS,"Bahamas, The",Bahamas,the Commonwealth of the Bahamas,BS,44,BHA,12,20
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,70,BIH,80,34
+BLR,Belarus,Belarus,the Republic of Belarus,BY,112,BYE,57,26
+BLZ,Belize,Belize,Belize,BZ,84,BZE,23,28
+BOL,Bolivia,Bolivia (Plurinational State of),the Plurinational State of Bolivia,BO,68,BOL,19,33
+BRA,Brazil,Brazil,the Federative Republic of Brazil,BR,76,BRA,21,37
+BRB,Barbados,Barbados,Barbados,BB,52,BAR,14,24
+BRN,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,BN,96,BRU,26,40
+BTN,Bhutan,Bhutan,the Kingdom of Bhutan,BT,64,BHU,18,31
+BWA,Botswana,Botswana,the Republic of Botswana,BW,72,BOT,20,35
+CAF,Central African Republic,Central African Republic,the Central African Republic,CF,140,CAF,37,49
+CAN,Canada,Canada,Canada,CA,124,CAN,33,46
+CHE,Switzerland,Switzerland,the Swiss Confederation,CH,756,SWI,211,237
+CHL,Chile,Chile,the Republic of Chile,CL,152,CHI,40,51
+CHN,China,China,the People's Republic of China,CN,156,CPR,351,53
+CIV,Cote d'Ivoire,C™te d'Ivoire,the Republic of C™te d'Ivoire,CI,384,IVC,107,66
+CMR,Cameroon,Cameroon,the Republic of Cameroon,CM,120,CMR,32,45
+COD,"Congo, Dem. Rep.",Democratic Republic of the Congo,the Democratic Republic of the Congo,CD,180,ZAI,250,68
+COG,"Congo, Rep.",Congo,the Republic of the Congo,CG,178,PRC,46,59
+COK,Cook Islands,Cook Islands,the Cook Islands,CK,184,CKI,47,60
+COL,Colombia,Colombia,the Republic of Colombia,CO,170,COL,44,57
+COM,Comoros,Comoros,the Union of the Comoros,KM,174,COI,45,58
+CPV,Cape Verde,Cabo Verde,Republic of Cabo Verde,CV,132,CVI,35,47
+CRI,Costa Rica,Costa Rica,the Republic of Costa Rica,CR,188,COS,48,61
+CUB,Cuba,Cuba,the Republic of Cuba,CU,192,CUB,49,63
+CYP,Cyprus,Cyprus,the Republic of Cyprus,CY,196,CYP,50,64
+CZE,Czech Republic,Czech Republic,the Czech Republic,CZ,203,CEH,167,65
+DEU,Germany,Germany,the Federal Republic of Germany,DE,276,GER,79,93
+DJI,Djibouti,Djibouti,the Republic of Djibouti,DJ,262,DJI,72,70
+DMA,Dominica,Dominica,the Commonwealth of Dominica,DM,212,DMI,55,71
+DNK,Denmark,Denmark,the Kingdom of Denmark,DK,208,DEN,54,69
+DOM,Dominican Republic,Dominican Republic,the Dominican Republic,DO,214,DOM,56,72
+DZA,Algeria,Algeria,the People's Democratic Republic of Algeria,DZ,12,ALG,4,4
+ECU,Ecuador,Ecuador,the Republic of Ecuador,EC,218,ECU,58,73
+EGY,"Egypt, Arab Rep.",Egypt,the Arab Republic of Egypt,EG,818,EGY,59,40765
+ERI,Eritrea,Eritrea,the State of Eritrea,ER,232,ERI,178,77
+ESP,Spain,Spain,the Kingdom of Spain,ES,724,SPA,203,229
+EST,Estonia,Estonia,the Republic of Estonia,EE,233,EST,63,78
+ETH,Ethiopia,Ethiopia,the Federal Democratic Republic of Ethiopia,ET,231,ETH,238,79
+FIN,Finland,Finland,the Republic of Finland,FI,246,FIN,67,84
+FJI,Fiji,Fiji,the Republic of Fiji,FJ,242,FIJ,66,83
+FRA,France,France,the French Republic,FR,250,FRA,68,85
+FSM,"Micronesia, Fed. Sts.",Micronesia (Federated States of),the Federated States of Micronesia,FM,583,MIC,145,163
+GAB,Gabon,Gabon,the Gabonese Republic,GA,266,GAB,74,89
+GBR,United Kingdom,United Kingdom,the United Kingdom of Great Britain and Northern Ireland,GB,826,UKM,229,256
+GEO,Georgia,Georgia,Georgia,GE,268,GEO,73,92
+GHA,Ghana,Ghana,the Republic of Ghana,GH,288,GHA,81,94
+GIN,Guinea,Guinea,the Republic of Guinea,GN,324,GUI,90,106
+GMB,"Gambia, The",Gambia,the Republic of the Gambia,GM,270,GAM,75,90
+GNB,Guinea-Bissau,Guinea-Bissau,the Republic of Guinea-Bissau,GW,624,GBS,175,105
+GNQ,Equatorial Guinea,Equatorial Guinea,the Republic of Equatorial Guinea,GQ,226,EQG,61,76
+GRC,Greece,Greece,the Hellenic Republic,GR,300,GRE,84,97
+GRD,Grenada,Grenada,Grenada,GD,308,GRN,86,99
+GTM,Guatemala,Guatemala,the Republic of Guatemala,GT,320,GUA,89,103
+GUY,Guyana,Guyana,the Republic of Guyana,GY,328,GUY,91,107
+HND,Honduras,Honduras,the Republic of Honduras,HN,340,HON,95,111
+HRV,Croatia,Croatia,the Republic of Croatia,HR,191,CRO,98,62
+HTI,Haiti,Haiti,the Republic of Haiti,HT,332,HAI,93,108
+HUN,Hungary,Hungary,Hungary,HU,348,HUN,97,113
+IDN,Indonesia,Indonesia,the Republic of Indonesia,ID,360,INS,101,116
+IND,India,India,the Republic of India,IN,356,IND,100,115
+IRL,Ireland,Ireland,Ireland,IE,372,IRE,104,119
+IRN,"Iran, Islamic Rep.",Iran (Islamic Republic of),the Islamic Republic of Iran,IR,364,IRA,102,117
+IRQ,Iraq,Iraq,the Republic of Iraq,IQ,368,IRQ,103,118
+ISL,Iceland,Iceland,the Republic of Iceland,IS,352,ICE,99,114
+ISR,Israel,Israel,the State of Israel,IL,376,ISR,105,121
+ITA,Italy,Italy,the Republic of Italy,IT,380,ITA,106,122
+JAM,Jamaica,Jamaica,Jamaica,JM,388,JAM,109,123
+JOR,Jordan,Jordan,the Hashemite Kingdom of Jordan,JO,400,JOR,112,130
+JPN,Japan,Japan,Japan,JP,392,JPN,110,126
+KAZ,Kazakhstan,Kazakhstan,the Republic of Kazakhstan,KZ,398,KAZ,108,132
+KEN,Kenya,Kenya,the Republic of Kenya,KE,404,KEN,114,133
+KGZ,Kyrgyz Republic,Kyrgyzstan,the Kyrgyz Republic,KG,417,KYR,113,138
+KHM,Cambodia,Cambodia,the Kingdom of Cambodia,KH,116,CMB,115,44
+KIR,Kiribati,Kiribati,the Republic of Kiribati,KI,296,KIR,83,135
+KNA,St. Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,659,STK,188,208
+KOR,"Korea, Rep.",Republic of Korea,the Republic of Korea,KR,410,ROK,117,202
+KWT,Kuwait,Kuwait,the State of Kuwait,KW,414,KUW,118,137
+LAO,Lao PDR,Lao People's Democratic Republic,the Lao People's Democratic Republic,LA,418,LAO,120,139
+LBN,Lebanon,Lebanon,the Lebanese Republic,LB,422,LEB,121,141
+LBR,Liberia,Liberia,the Republic of Liberia,LR,430,LIR,123,144
+LBY,Libya,Libya,Libya,LY,434,LIB,124,145
+LCA,St. Lucia,Saint Lucia,Saint Lucia,LC,662,STL,189,209
+LKA,Sri Lanka,Sri Lanka,the Democratic Socialist Republic of Sri Lanka,LK,144,SRL,38,231
+LSO,Lesotho,Lesotho,the Kingdom of Lesotho,LS,426,LES,122,142
+LTU,Lithuania,Lithuania,the Republic of Lithuania,LT,440,LIT,126,147
+LUX,Luxembourg,Luxembourg,the Grand Duchy of Luxembourg,LU,442,LUX,256,148
+LVA,Latvia,Latvia,the Republic of Latvia,LV,428,LAT,119,140
+MAR,Morocco,Morocco,the Kingdom of Morocco,MA,504,MOR,143,169
+MCO,Monaco,Monaco,the Principality of Monaco,MC,492,MNC,140,166
+MDA,Moldova,Republic of Moldova,the Republic of Moldova,MD,498,MOL,146,165
+MDG,Madagascar,Madagascar,the Republic of Madagascar,MG,450,MAG,129,150
+MDV,Maldives,Maldives,the Republic of Maldives,MV,462,MDV,132,154
+MEX,Mexico,Mexico,the United Mexican States,MX,484,MEX,138,162
+MHL,Marshall Islands,Marshall Islands,the Republic of the Marshall Islands,MH,584,MAS,127,157
+MKD,"Macedonia, FYR",The former Yugoslav Republic of Macedonia,The former Yugoslav Republic of Macedonia,MK,807,MKD,154,241
+MLI,Mali,Mali,the Republic of Mali,ML,466,MLI,133,155
+MLT,Malta,Malta,the Republic of Malta,MT,470,MAT,134,156
+MMR,Myanmar,Myanmar,the Republic of the Union of Myanmar,MM,104,MYA,28,171
+MNE,Montenegro,Montenegro,Montenegro,ME,499,,273,2647
+MNG,Mongolia,Mongolia,Mongolia,MN,496,MON,141,167
+MOZ,Mozambique,Mozambique,the Republic of Mozambique,MZ,508,MOZ,144,170
+MRT,Mauritania,Mauritania,the Islamic Republic of Mauritania,MR,478,MAU,136,159
+MUS,Mauritius,Mauritius,the Republic of Mauritius,MU,480,MAR,137,160
+MWI,Malawi,Malawi,the Republic of Malawi,MW,454,MLW,130,152
+MYS,Malaysia,Malaysia,Malaysia,MY,458,MAL,131,153
+NAM,Namibia,Namibia,the Republic of Namibia,,516,NAM,147,172
+NER,Niger,Niger,the Republic of the Niger,NE,562,NER,158,181
+NGA,Nigeria,Nigeria,the Federal Republic of Nigeria,NG,566,NIR,159,182
+NIC,Nicaragua,Nicaragua,the Republic of Nicaragua,NI,558,NIC,157,180
+NIU,Niue,Niue,Niue,NU,570,NIU,160,183
+NLD,Netherlands,Netherlands,the Kingdom of the Netherlands,NL,528,NET,150,177
+NOR,Norway,Norway,the Kingdom of Norway,NO,578,NOR,162,186
+NRU,Nauru,Nauru,the Republic of Nauru,NR,520,NAU,148,173
+NPL,Nepal,Nepal,the Federal Democratic Republic of Nepal,NP,524,NEP,149,175
+NZL,New Zealand,New Zealand,New Zealand,NZ,554,NZE,156,179
+OMN,Oman,Oman,the Sultanate of Oman,OM,512,OMA,221,187
+PAK,Pakistan,Pakistan,the Islamic Republic of Pakistan,PK,586,PAK,165,188
+PAN,Panama,Panama,the Republic of Panama,PA,591,PAN,166,191
+PER,Peru,Peru,the Republic of Peru,PE,604,PER,170,195
+PHL,Philippines,Philippines,the Republic of the Philippines,PH,608,PHI,171,196
+PLW,Palau,Palau,the Republic of Palau,PW,585,TTP,180,189
+PNG,Papua New Guinea,Papua New Guinea,Independent State of Papua New Guinea,PG,598,PNG,168,192
+POL,Poland,Poland,the Republic of Poland,PL,616,POL,173,198
+PRK,"Korea, Dem. Rep.",Democratic People's Republic of Korea,the Democratic People's Republic of Korea,KP,408,DRK,116,67
+PRT,Portugal,Portugal,the Portuguese Republic,PT,620,POR,174,199
+PRY,Paraguay,Paraguay,the Republic of Paraguay,PY,600,PAR,169,194
+QAT,Qatar,Qatar,the State of Qatar,QA,634,QAT,179,201
+ROU,Romania,Romania,Romania,RO,642,ROM,183,203
+RUS,Russian Federation,Russian Federation,the Russian Federation,RU,643,RUS,185,204
+RWA,Rwanda,Rwanda,the Republic of Rwanda,RW,646,RWA,184,205
+SAU,Saudi Arabia,Saudi Arabia,the Kingdom of Saudi Arabia,SA,682,SAU,194,215
+SDN,Sudan,Sudan,the Republic of the Sudan,SD,729,SUD,276,6
+SEN,Senegal,Senegal,the Republic of Senegal,SN,686,SEN,195,217
+SGP,Singapore,Singapore,the Republic of Singapore,SG,702,SIN,200,222
+SLB,Solomon Islands,Solomon Islands,Solomon Islands,SB,90,SOI,25,225
+SLE,Sierra Leone,Sierra Leone,the Republic of Sierra Leone,SL,694,SIL,197,221
+SLV,El Salvador,El Salvador,the Republic of El Salvador,SV,222,ELS,60,75
+SMR,San Marino,San Marino,the Republic of San Marino,SM,674,SNM,192,213
+SOM,Somalia,Somalia,the Federal Republic of Somalia,SO,706,SOM,201,226
+SRB,Serbia,Serbia,the Republic of Serbia,RS,688,,272,2648
+SSD,South Sudan,South Sudan,the Republic of South Sudan,SS,728,,277,74
+STP,S?Tom?nd Principe,Sao Tome and Principe,the Democratic Republic of Sao Tome and Principe,ST,678,STP,193,214
+SUR,Suriname,Suriname,the Republic of Suriname,SR,740,SUR,207,233
+SVK,Slovak Republic,Slovakia,the Slovak Republic,SK,703,SLO,199,223
+SVN,Slovenia,Slovenia,the Republic of Slovenia,SI,705,SVN,198,224
+SWE,Sweden,Sweden,the Kingdom of Sweden,SE,752,SWE,210,236
+SWZ,Swaziland,Swaziland,the Kingdom of Swaziland,SZ,748,SWA,209,235
+SYC,Seychelles,Seychelles,the Republic of Seychelles,SC,690,SEY,196,220
+SYR,Syrian Arab Republic,Syrian Arab Republic,the Syrian Arab Republic,SY,760,SYR,212,238
+TCD,Chad,Chad,the Republic of Chad,TD,148,CHD,39,50
+TGO,Togo,Togo,the Togolese Republic,TG,768,TOG,217,243
+THA,Thailand,Thailand,the Kingdom of Thailand,TH,764,THA,216,240
+TJK,Tajikistan,Tajikistan,the Republic of Tajikistan,TJ,762,TAJ,208,239
+TKM,Turkmenistan,Turkmenistan,Turkmenistan,TM,795,TUK,213,250
+TLS,Timor-Leste,Timor-Leste,the Democratic Republic of Timor-Leste,TL,626,TIM,176,242
+TON,Tonga,Tonga,the Kingdom of Tonga,TO,776,TON,219,245
+TTO,Trinidad and Tobago,Trinidad and Tobago,the Republic of Trinidad and Tobago,TT,780,TRI,220,246
+TUN,Tunisia,Tunisia,the Republic of Tunisia,TN,788,TUN,222,248
+TUR,Turkey,Turkey,the Republic of Turkey,TR,792,TUR,223,249
+TUV,Tuvalu,Tuvalu,Tuvalu,TV,798,TUV,227,252
+TZA,Tanzania,United Republic of Tanzania,the United Republic of Tanzania,TZ,834,URT,215,257
+UGA,Uganda,Uganda,the Republic of Uganda,UG,800,UGA,226,253
+UKR,Ukraine,Ukraine,Ukraine,UA,804,UKR,230,254
+URY,Uruguay,Uruguay,the Eastern Republic of Uruguay,UY,858,URU,234,260
+USA,United States,United States of America,the United States of America,US,840,USA,231,259
+UZB,Uzbekistan,Uzbekistan,the Republic of Uzbekistan,UZ,860,UZB,235,261
+VCT,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,670,STV,191,211
+VEN,"Venezuela, RB",Venezuela (Bolivarian Republic of),the Bolivarian Republic of Venezuela,VE,862,VEN,236,263
+VNM,Vietnam,Viet Nam,the Socialist Republic of Viet Nam,VN,704,VIE,237,264
+VUT,Vanuatu,Vanuatu,the Republic of Vanuatu,VU,548,VAN,155,262
+WSM,Samoa,Samoa,the Independent State of Samoa,WS,882,SAM,244,212
+YEM,"Yemen, Rep.",Yemen,the Republic of Yemen,YE,887,YEM,249,269
+ZAF,South Africa,South Africa,the Republic of South Africa,ZA,710,SAF,202,227
+ZMB,Zambia,Zambia,the Republic of Zambia,ZM,894,ZAM,251,270
+ZWE,Zimbabwe,Zimbabwe,the Republic of Zimbabwe,ZW,716,ZIM,181,271

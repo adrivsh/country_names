@@ -32,7 +32,7 @@ CAN,Canada,Canada,Canada,CA,124,CAN,33,46
 CHE,Switzerland,Switzerland,the Swiss Confederation,CH,756,SWI,211,237
 CHL,Chile,Chile,the Republic of Chile,CL,152,CHI,40,51
 CHN,China,China,the People's Republic of China,CN,156,CPR,351,53
-CIV,Cote d'Ivoire,C�te d'Ivoire,the Republic of C�te d'Ivoire,CI,384,IVC,107,66
+CIV,Cote d'Ivoire,C™te d'Ivoire,the Republic of C™te d'Ivoire,CI,384,IVC,107,66
 CMR,Cameroon,Cameroon,the Republic of Cameroon,CM,120,CMR,32,45
 COD,"Congo, Dem. Rep.",Democratic Republic of the Congo,the Democratic Republic of the Congo,CD,180,ZAI,250,68
 COG,"Congo, Rep.",Congo,the Republic of the Congo,CG,178,PRC,46,59
@@ -159,7 +159,7 @@ SMR,San Marino,San Marino,the Republic of San Marino,SM,674,SNM,192,213
 SOM,Somalia,Somalia,the Federal Republic of Somalia,SO,706,SOM,201,226
 SRB,Serbia,Serbia,the Republic of Serbia,RS,688,,272,2648
 SSD,South Sudan,South Sudan,the Republic of South Sudan,SS,728,,277,74
-STP,S?Tom?nd Principe,Sao Tome and Principe,the Democratic Republic of Sao Tome and Principe,ST,678,STP,193,214
+STP,São Tomé and Príncipe,Sao Tome and Principe,the Democratic Republic of Sao Tome and Principe,ST,678,STP,193,214
 SUR,Suriname,Suriname,the Republic of Suriname,SR,740,SUR,207,233
 SVK,Slovak Republic,Slovakia,the Slovak Republic,SK,703,SLO,199,223
 SVN,Slovenia,Slovenia,the Republic of Slovenia,SI,705,SVN,198,224

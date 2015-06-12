@@ -40,6 +40,7 @@ Cambodia,KH,KHM,116
 Cameroon,CM,CMR,120
 Canada,CA,CAN,124
 Cape Verde,CV,CPV,132
+Cabo Verde,CV,CPV,132
 Cayman Islands,KY,CYM,136
 Central African Republic,CF,CAF,140
 Chad,TD,TCD,148
@@ -47,8 +48,10 @@ Chile,CL,CHL,152
 China,CN,CHN,156
 "Hong Kong, Special Administrative Region of China",HK,HKG,344
 Hong Kong,HK,HKG,344
+Hong Kong (China),HK,HKG,344
 "Macao, Special Administrative Region of China",MO,MAC,446
 Macao,MO,MAC,446
+Macau,MO,MAC,446
 Christmas Island,CX,CXR,162
 Cocos (Keeling) Islands,CC,CCK,166
 Colombia,CO,COL,170
@@ -58,10 +61,13 @@ Congo,CG,COG,178
 Republic of the Congo,CG,COG,178
 "Congo, Rep.",CG,COG,178
 "Congo, Democratic Republic of the",CD,COD,180
+"Congo, Democratic Republic of",CD,COD,180
 "Congo, Dem. Rep.",CD,COD,180
 Cook Islands ,CK,COK,184
 Cook Islands,CK,COK,184
+Cook islands,CK,COK,184
 Costa Rica,CR,CRI,188
+Côte d’Ivoire,CI,CIV,384
 Côte d'Ivoire,CI,CIV,384
 C“te d'Ivoire,CI,CIV,384
 Ivory Coast,CI,CIV,384
@@ -135,15 +141,19 @@ Kuwait,KW,KWT,414
 Kyrgyzstan,KG,KGZ,417
 "Kyrgyz Republic",KG,KGZ,417
 Lao PDR,LA,LAO,418
+Lao People’s Democratic Republic,LA,LAO,418
+Lao People's Democratic Republic,LA,LAO,418
 Latvia,LV,LVA,428
 Lebanon,LB,LBN,422
 Lesotho,LS,LSO,426
 Liberia,LR,LBR,430
 Libya,LY,LBY,434
+Libyan Arab Jamahiriya,LY,LBY,434
 Liechtenstein,LI,LIE,438
 Lithuania,LT,LTU,440
 Luxembourg,LU,LUX,442
 The former Yugoslav Republic of Macedonia,MK,MKD,807
+The Former Yugoslav Republic  of Macedonia,MK,MKD,807
 "Macedonia, Republic of",MK,MKD,807
 Macedonia,MK,MKD,807
 Madagascar,MG,MDG,450
@@ -162,6 +172,7 @@ Mexico,MX,MEX,484
 "Micronesia, Fed States of",FM,FSM,583
 Micronesia,FM,FSM,583
 Moldova,MD,MDA,498
+"Moldova, Republic of",MD,MDA,498
 Monaco,MC,MCO,492
 Mongolia,MN,MNG,496
 Montenegro,ME,MNE,499
@@ -214,6 +225,7 @@ Saint Vincent and Grenadines,VC,VCT,670
 Saint Vincent and the Grenadines,VC,VCT,670
 St Vincent and the Grenadines,VC,VCT,670
 Samoa,WS,WSM,882
+Western Samoa,WS,WSM,882
 San Marino,SM,SMR,674
 Sao Tome and Principe,ST,STP,678
 Saudi Arabia,SA,SAU,682
@@ -269,6 +281,7 @@ Uruguay,UY,URY,858
 Uzbekistan,UZ,UZB,860
 Vanuatu,VU,VUT,548
 Venezuela (Bolivarian Republic of),VE,VEN,862
+"Venezuela, Bolivarian Republic of",VE,VEN,862
 Venezuela,VE,VEN,862
 Viet Nam,VN,VNM,704
 Vietnam,VN,VNM,704

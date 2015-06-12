@@ -40,6 +40,7 @@ Cambodia,Cambodia
 Cameroon,Cameroon
 Canada,Canada
 Cape Verde,Cape Verde
+Cabo Verde,Cape Verde
 Cayman Islands,Cayman Islands
 Central African Republic,Central African Republic
 Chad,Chad
@@ -47,8 +48,10 @@ Chile,Chile
 China,China
 "Hong Kong, Special Administrative Region of China","Hong Kong SAR, China"
 Hong Kong,"Hong Kong SAR, China"
+Hong Kong (China),"Hong Kong SAR, China"
 "Macao, Special Administrative Region of China","Macao SAR, China"
 Macao,"Macao SAR, China"
+Macau,"Macao SAR, China"
 Christmas Island,CXR
 Cocos (Keeling) Islands,CCK
 Colombia,Colombia
@@ -58,12 +61,15 @@ Congo,"Congo, Rep."
 Republic of the Congo,"Congo, Rep."
 "Congo, Rep.","Congo, Rep."
 "Congo, Democratic Republic of the","Congo, Dem. Rep."
+"Congo, Democratic Republic of","Congo, Dem. Rep."
 "Congo, Dem. Rep.","Congo, Dem. Rep."
 Cook Islands ,Cook Islands
 Cook Islands,Cook Islands
+Cook islands,Cook Islands
 Costa Rica,Costa Rica
-C�te d'Ivoire,Cote d'Ivoire
-C�te d'Ivoire,Cote d'Ivoire
+Côte d’Ivoire,Cote d'Ivoire
+Côte d'Ivoire,Cote d'Ivoire
+C“te d'Ivoire,Cote d'Ivoire
 Ivory Coast,Cote d'Ivoire
 Croatia,Croatia
 Cuba,Cuba
@@ -135,15 +141,19 @@ Kuwait,Kuwait
 Kyrgyzstan,Kyrgyz Republic
 Kyrgyz Republic,Kyrgyz Republic
 Lao PDR,Lao PDR
+Lao People’s Democratic Republic,Lao PDR
+Lao People's Democratic Republic,Lao PDR
 Latvia,Latvia
 Lebanon,Lebanon
 Lesotho,Lesotho
 Liberia,Liberia
 Libya,Libya
+Libyan Arab Jamahiriya,Libya
 Liechtenstein,Liechtenstein
 Lithuania,Lithuania
 Luxembourg,Luxembourg
 The former Yugoslav Republic of Macedonia,"Macedonia, FYR"
+The Former Yugoslav Republic  of Macedonia,"Macedonia, FYR"
 "Macedonia, Republic of","Macedonia, FYR"
 Macedonia,"Macedonia, FYR"
 Madagascar,Madagascar
@@ -162,6 +172,7 @@ Mexico,Mexico
 "Micronesia, Fed States of","Micronesia, Fed. Sts."
 Micronesia,"Micronesia, Fed. Sts."
 Moldova,Moldova
+"Moldova, Republic of",Moldova
 Monaco,Monaco
 Mongolia,Mongolia
 Montenegro,Montenegro
@@ -199,12 +210,12 @@ Poland,Poland
 Portugal,Portugal
 Puerto Rico,Puerto Rico
 Qatar,Qatar
-R�union,REU
+Réunion,REU
 Romania,Romania
 Russian Federation,Russian Federation
 Russia,Russian Federation
 Rwanda,Rwanda
-Saint-Barth�lemy,BLM
+Saint-Barthélemy,BLM
 Saint Helena,SHN
 Saint Kitts and Nevis,St. Kitts and Nevis
 Saint Lucia,St. Lucia
@@ -214,8 +225,9 @@ Saint Vincent and Grenadines,St. Vincent and the Grenadines
 Saint Vincent and the Grenadines,St. Vincent and the Grenadines
 St Vincent and the Grenadines,St. Vincent and the Grenadines
 Samoa,Samoa
+Western Samoa,Samoa
 San Marino,San Marino
-Sao Tome and Principe,S?Tom?nd Principe
+Sao Tome and Principe,São Tomé and Príncipe
 Saudi Arabia,Saudi Arabia
 Senegal,Senegal
 Serbia,Serbia
@@ -269,6 +281,7 @@ Uruguay,Uruguay
 Uzbekistan,Uzbekistan
 Vanuatu,Vanuatu
 Venezuela (Bolivarian Republic of),"Venezuela, RB"
+"Venezuela, Bolivarian Republic of","Venezuela, RB"
 Venezuela,"Venezuela, RB"
 Viet Nam,Vietnam
 Vietnam,Vietnam

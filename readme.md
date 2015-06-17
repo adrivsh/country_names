@@ -4,9 +4,12 @@ If you know a better repo tell me. If you have more matches send me (or fork thi
 
 ##USAGE
 
+* names_to_iso matches several possible spellings of the country names to iso3, iso2 and iso number codes.
+
+the out folder contains several other equivalence tables (computed from names_to_iso and other inputs)
+
 * iso3_to_wb_name matches iso3 to the name of the country using the spelling that the World Bank likes to use
 * iso3_WBname_iso2_uni_undp_fasotat_gaul provides even more correspondences
-* names_to_iso matches several possible spellings of the country names to iso3, iso2 and iso number codes.
 
 ##GOTCHAS
 

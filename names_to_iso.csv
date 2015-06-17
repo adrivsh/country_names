@@ -31,6 +31,7 @@ Botswana,BW,BWA,72
 Bouvet Island,BV,BVT,74
 Brazil,BR,BRA,76
 British Virgin Islands,VG,VGB,92
+"Virgin Islands, British",VG,VGB,92
 British Indian Ocean Territory,IO,IOT,86
 Brunei Darussalam,BN,BRN,96
 Bulgaria,BG,BGR,100
@@ -61,6 +62,7 @@ Congo,CG,COG,178
 Republic of the Congo,CG,COG,178
 "Congo, Rep.",CG,COG,178
 "Congo, Democratic Republic of the",CD,COD,180
+"Congo, the Democratic Republic of the",CD,COD,180
 "Congo, Democratic Republic of",CD,COD,180
 "Congo, Dem. Rep.",CD,COD,180
 Cook Islands ,CK,COK,184
@@ -154,6 +156,7 @@ Lithuania,LT,LTU,440
 Luxembourg,LU,LUX,442
 The former Yugoslav Republic of Macedonia,MK,MKD,807
 The Former Yugoslav Republic  of Macedonia,MK,MKD,807
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807
 "Macedonia, Republic of",MK,MKD,807
 Macedonia,MK,MKD,807
 Madagascar,MG,MDG,450
@@ -286,7 +289,9 @@ Venezuela,VE,VEN,862
 Viet Nam,VN,VNM,704
 Vietnam,VN,VNM,704
 "Virgin Islands, US",VI,VIR,850
+"Virgin Islands, U.S.",VI,VIR,850
 Wallis and Futuna Islands,WF,WLF,876
+Wallis and Futuna,WF,WLF,876
 Western Sahara,EH,ESH,732
 Yemen,YE,YEM,887
 "Yemen, Rep.",YE,YEM,887

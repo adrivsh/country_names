@@ -31,6 +31,7 @@ Botswana,Botswana
 Bouvet Island,BVT
 Brazil,Brazil
 British Virgin Islands,"Virgin Islands, British"
+"Virgin Islands, British","Virgin Islands, British"
 British Indian Ocean Territory,IOT
 Brunei Darussalam,Brunei Darussalam
 Bulgaria,Bulgaria
@@ -61,6 +62,7 @@ Congo,"Congo, Rep."
 Republic of the Congo,"Congo, Rep."
 "Congo, Rep.","Congo, Rep."
 "Congo, Democratic Republic of the","Congo, Dem. Rep."
+"Congo, the Democratic Republic of the","Congo, Dem. Rep."
 "Congo, Democratic Republic of","Congo, Dem. Rep."
 "Congo, Dem. Rep.","Congo, Dem. Rep."
 Cook Islands ,Cook Islands
@@ -154,6 +156,7 @@ Lithuania,Lithuania
 Luxembourg,Luxembourg
 The former Yugoslav Republic of Macedonia,"Macedonia, FYR"
 The Former Yugoslav Republic  of Macedonia,"Macedonia, FYR"
+"Macedonia, the former Yugoslav Republic of","Macedonia, FYR"
 "Macedonia, Republic of","Macedonia, FYR"
 Macedonia,"Macedonia, FYR"
 Madagascar,Madagascar
@@ -286,7 +289,9 @@ Venezuela,"Venezuela, RB"
 Viet Nam,Vietnam
 Vietnam,Vietnam
 "Virgin Islands, US",Virgin Islands (U.S.)
+"Virgin Islands, U.S.",Virgin Islands (U.S.)
 Wallis and Futuna Islands,WLF
+Wallis and Futuna,WLF
 Western Sahara,ESH
 Yemen,"Yemen, Rep."
 "Yemen, Rep.","Yemen, Rep."

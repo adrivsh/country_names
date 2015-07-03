@@ -1,6 +1,7 @@
 any,wb_name
 Afghanistan,Afghanistan
 Aland Islands,
+Aland,
 Albania,Albania
 Algeria,Algeria
 American Samoa,American Samoa
@@ -16,6 +17,7 @@ Australia,Australia
 Austria,Austria
 Azerbaijan,Azerbaijan
 Bahamas,"Bahamas, The"
+The Bahamas,"Bahamas, The"
 Bahrain,Bahrain
 Bangladesh,Bangladesh
 Barbados,Barbados
@@ -34,6 +36,7 @@ British Virgin Islands,"Virgin Islands, British"
 "Virgin Islands, British","Virgin Islands, British"
 British Indian Ocean Territory,
 Brunei Darussalam,Brunei Darussalam
+Brunei,Brunei Darussalam
 Bulgaria,Bulgaria
 Burkina Faso,Burkina Faso
 Burundi,Burundi
@@ -48,9 +51,11 @@ Chad,Chad
 Chile,Chile
 China,China
 "Hong Kong, Special Administrative Region of China","Hong Kong SAR, China"
+Hong Kong S.A.R.,"Hong Kong SAR, China"
 Hong Kong,"Hong Kong SAR, China"
 Hong Kong (China),"Hong Kong SAR, China"
 "Macao, Special Administrative Region of China","Macao SAR, China"
+Macao S.A.R,"Macao SAR, China"
 Macao,"Macao SAR, China"
 Macau,"Macao SAR, China"
 Christmas Island,
@@ -61,8 +66,10 @@ Congo (Brazzaville),"Congo, Rep."
 Congo,"Congo, Rep."
 Republic of the Congo,"Congo, Rep."
 "Congo, Rep.","Congo, Rep."
+Republic of Congo,"Congo, Rep."
 "Congo, Democratic Republic of the","Congo, Dem. Rep."
 "Congo, the Democratic Republic of the","Congo, Dem. Rep."
+Democratic Republic of the Congo,"Congo, Dem. Rep."
 "Congo, Democratic Republic of","Congo, Dem. Rep."
 "Congo, Dem. Rep.","Congo, Dem. Rep."
 Cook Islands ,Cook Islands
@@ -90,6 +97,7 @@ Eritrea,Eritrea
 Estonia,Estonia
 Ethiopia,Ethiopia
 Falkland Islands (Malvinas),
+Falkland Islands,
 Faroe Islands,Faeroe Islands
 Fiji,Fiji
 Finland,Finland
@@ -112,15 +120,18 @@ Guatemala,Guatemala
 Guernsey,
 Guinea,Guinea
 Guinea-Bissau,Guinea-Bissau
+Guinea Bissau,Guinea-Bissau
 Guyana,Guyana
 Haiti,Haiti
 Heard Island and Mcdonald Islands,
 Holy See (Vatican City State),
+Vatican,
 Honduras,Honduras
 Hungary,Hungary
 Iceland,Iceland
 India,India
 Indonesia,Indonesia
+Iran,"Iran, Islamic Rep."
 "Iran, Islamic Republic of","Iran, Islamic Rep."
 "Iran, Islamic Rep of","Iran, Islamic Rep."
 Iraq,Iraq
@@ -136,12 +147,14 @@ Kazakhstan,Kazakhstan
 Kenya,Kenya
 Kiribati,Kiribati
 "Korea, Democratic People's Republic of","Korea, Dem. Rep."
+North Korea,"Korea, Dem. Rep."
 "Korea, Republic of","Korea, Rep."
 "Korea, Rep of","Korea, Rep."
 South Korea,"Korea, Rep."
 Kuwait,Kuwait
 Kyrgyzstan,Kyrgyz Republic
 Kyrgyz Republic,Kyrgyz Republic
+Laos,Lao PDR
 Lao PDR,Lao PDR
 Lao People’s Democratic Republic,Lao PDR
 Lao People's Democratic Republic,Lao PDR
@@ -231,9 +244,11 @@ Samoa,Samoa
 Western Samoa,Samoa
 San Marino,San Marino
 Sao Tome and Principe,São Tomé and Príncipe
+São Tomé and Príncipe,São Tomé and Príncipe
 Saudi Arabia,Saudi Arabia
 Senegal,Senegal
 Serbia,Serbia
+Republic of Serbia,Serbia
 Seychelles,Seychelles
 Sierra Leone,Sierra Leone
 Singapore,Singapore
@@ -254,15 +269,18 @@ Swaziland,Swaziland
 Sweden,Sweden
 Switzerland,Switzerland
 Syrian Arab Republic (Syria),Syrian Arab Republic
+Syria,Syrian Arab Republic
 Syrian Arab Republic,Syrian Arab Republic
 "Taiwan, Republic of China",Taiwan
 Taiwan,Taiwan
 Tajikistan,Tajikistan
 "Tanzania, United Republic of",Tanzania
+United Republic of Tanzania,Tanzania
 "Tanzania, United Rep of",Tanzania
 Tanzania,Tanzania
 Thailand,Thailand
 Timor-Leste,Timor-Leste
+East Timor,Timor-Leste
 Togo,Togo
 Tokelau,
 Tonga,Tonga
@@ -289,6 +307,7 @@ Venezuela,"Venezuela, RB"
 Viet Nam,Vietnam
 Vietnam,Vietnam
 "Virgin Islands, US",Virgin Islands (U.S.)
+United States Virgin Islands,Virgin Islands (U.S.)
 "Virgin Islands, U.S.",Virgin Islands (U.S.)
 Wallis and Futuna Islands,
 Wallis and Futuna,

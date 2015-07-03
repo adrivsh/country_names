@@ -1,13 +1,13 @@
 any,wb_name
 Afghanistan,Afghanistan
-Aland Islands,ALA
+Aland Islands,
 Albania,Albania
 Algeria,Algeria
 American Samoa,American Samoa
 Andorra,Andorra
 Angola,Angola
 Anguilla,Anguilla
-Antarctica,ATA
+Antarctica,
 Antigua and Barbuda,Antigua and Barbuda
 Argentina,Argentina
 Armenia,Armenia
@@ -28,11 +28,11 @@ Bhutan,Bhutan
 Bolivia,Bolivia
 Bosnia and Herzegovina,Bosnia and Herzegovina
 Botswana,Botswana
-Bouvet Island,BVT
+Bouvet Island,
 Brazil,Brazil
 British Virgin Islands,"Virgin Islands, British"
 "Virgin Islands, British","Virgin Islands, British"
-British Indian Ocean Territory,IOT
+British Indian Ocean Territory,
 Brunei Darussalam,Brunei Darussalam
 Bulgaria,Bulgaria
 Burkina Faso,Burkina Faso
@@ -53,8 +53,8 @@ Hong Kong (China),"Hong Kong SAR, China"
 "Macao, Special Administrative Region of China","Macao SAR, China"
 Macao,"Macao SAR, China"
 Macau,"Macao SAR, China"
-Christmas Island,CXR
-Cocos (Keeling) Islands,CCK
+Christmas Island,
+Cocos (Keeling) Islands,
 Colombia,Colombia
 Comoros,Comoros
 Congo (Brazzaville),"Congo, Rep."
@@ -89,33 +89,33 @@ Equatorial Guinea,Equatorial Guinea
 Eritrea,Eritrea
 Estonia,Estonia
 Ethiopia,Ethiopia
-Falkland Islands (Malvinas),FLK
+Falkland Islands (Malvinas),
 Faroe Islands,Faeroe Islands
 Fiji,Fiji
 Finland,Finland
 France,France
-French Guiana,GUF
+French Guiana,
 French Polynesia,French Polynesia
-French Southern Territories,ATF
+French Southern Territories,
 Gabon,Gabon
 Gambia,"Gambia, The"
 Georgia,Georgia
 Germany,Germany
 Ghana,Ghana
-Gibraltar,GIB
+Gibraltar,
 Greece,Greece
 Greenland,Greenland
 Grenada,Grenada
-Guadeloupe,GLP
+Guadeloupe,
 Guam,Guam
 Guatemala,Guatemala
-Guernsey,GGY
+Guernsey,
 Guinea,Guinea
 Guinea-Bissau,Guinea-Bissau
 Guyana,Guyana
 Haiti,Haiti
-Heard Island and Mcdonald Islands,HMD
-Holy See (Vatican City State),VAT
+Heard Island and Mcdonald Islands,
+Holy See (Vatican City State),
 Honduras,Honduras
 Hungary,Hungary
 Iceland,Iceland
@@ -130,7 +130,7 @@ Israel,Israel
 Italy,Italy
 Jamaica,Jamaica
 Japan,Japan
-Jersey,JEY
+Jersey,
 Jordan,Jordan
 Kazakhstan,Kazakhstan
 Kenya,Kenya
@@ -166,10 +166,10 @@ Maldives,Maldives
 Mali,Mali
 Malta,Malta
 Marshall Islands,Marshall Islands
-Martinique,MTQ
+Martinique,
 Mauritania,Mauritania
 Mauritius,Mauritius
-Mayotte,MYT
+Mayotte,
 Mexico,Mexico
 "Micronesia, Federated States of","Micronesia, Fed. Sts."
 "Micronesia, Fed States of","Micronesia, Fed. Sts."
@@ -179,7 +179,7 @@ Moldova,Moldova
 Monaco,Monaco
 Mongolia,Mongolia
 Montenegro,Montenegro
-Montserrat,MSR
+Montserrat,
 Morocco,Morocco
 Mozambique,Mozambique
 Myanmar,Myanmar
@@ -188,14 +188,14 @@ Nauru,Nauru
 Nepal,Nepal
 Netherlands,Netherlands
 "Netherlands, the",Netherlands
-Netherlands Antilles,ANT
+Netherlands Antilles,
 New Caledonia,New Caledonia
 New Zealand,New Zealand
 Nicaragua,Nicaragua
 Niger,Niger
 Nigeria,Nigeria
 Niue,Niue
-Norfolk Island,NFK
+Norfolk Island,
 Northern Mariana Islands,Northern Mariana Islands
 Norway,Norway
 Oman,Oman
@@ -208,22 +208,22 @@ Papua New Guinea,Papua New Guinea
 Paraguay,Paraguay
 Peru,Peru
 Philippines,Philippines
-Pitcairn,PCN
+Pitcairn,
 Poland,Poland
 Portugal,Portugal
 Puerto Rico,Puerto Rico
 Qatar,Qatar
-Réunion,REU
+Réunion,
 Romania,Romania
 Russian Federation,Russian Federation
 Russia,Russian Federation
 Rwanda,Rwanda
-Saint-Barthélemy,BLM
-Saint Helena,SHN
+Saint-Barthélemy,
+Saint Helena,
 Saint Kitts and Nevis,St. Kitts and Nevis
 Saint Lucia,St. Lucia
 Saint-Martin (French part),St. Martin (French part)
-Saint Pierre and Miquelon,SPM
+Saint Pierre and Miquelon,
 Saint Vincent and Grenadines,St. Vincent and the Grenadines
 Saint Vincent and the Grenadines,St. Vincent and the Grenadines
 St Vincent and the Grenadines,St. Vincent and the Grenadines
@@ -243,13 +243,13 @@ Slovenia,Slovenia
 Solomon Islands,Solomon Islands
 Somalia,Somalia
 South Africa,South Africa
-South Georgia and the South Sandwich Islands,SGS
+South Georgia and the South Sandwich Islands,
 South Sudan,South Sudan
 Spain,Spain
 Sri Lanka,Sri Lanka
 Sudan,Sudan
 Suriname,Suriname
-Svalbard and Jan Mayen Islands,SJM
+Svalbard and Jan Mayen Islands,
 Swaziland,Swaziland
 Sweden,Sweden
 Switzerland,Switzerland
@@ -264,7 +264,7 @@ Tanzania,Tanzania
 Thailand,Thailand
 Timor-Leste,Timor-Leste
 Togo,Togo
-Tokelau,TKL
+Tokelau,
 Tonga,Tonga
 Trinidad and Tobago,Trinidad and Tobago
 Tunisia,Tunisia
@@ -279,7 +279,7 @@ United Kingdom,United Kingdom
 United States of America,United States
 United States,United States
 USA,United States
-United States Minor Outlying Islands,UMI
+United States Minor Outlying Islands,
 Uruguay,Uruguay
 Uzbekistan,Uzbekistan
 Vanuatu,Vanuatu
@@ -290,9 +290,9 @@ Viet Nam,Vietnam
 Vietnam,Vietnam
 "Virgin Islands, US",Virgin Islands (U.S.)
 "Virgin Islands, U.S.",Virgin Islands (U.S.)
-Wallis and Futuna Islands,WLF
-Wallis and Futuna,WLF
-Western Sahara,ESH
+Wallis and Futuna Islands,
+Wallis and Futuna,
+Western Sahara,
 Yemen,"Yemen, Rep."
 "Yemen, Rep.","Yemen, Rep."
 Zambia,Zambia

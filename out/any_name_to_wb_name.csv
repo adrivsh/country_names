@@ -56,6 +56,7 @@ Hong Kong,"Hong Kong SAR, China"
 Hong Kong (China),"Hong Kong SAR, China"
 "Macao, Special Administrative Region of China","Macao SAR, China"
 Macao S.A.R,"Macao SAR, China"
+Macau S.A.R,"Macao SAR, China"
 Macao,"Macao SAR, China"
 Macau,"Macao SAR, China"
 Christmas Island,
@@ -77,7 +78,6 @@ Cook Islands,Cook Islands
 Cook islands,Cook Islands
 Costa Rica,Costa Rica
 Cote d'Ivoire,Cote d'Ivoire
-Cote d’Ivoire,Cote d'Ivoire
 Cote d’Ivoire,Cote d'Ivoire
 Côte d’Ivoire,Cote d'Ivoire
 Côte d'Ivoire,Cote d'Ivoire
@@ -189,6 +189,7 @@ Mauritius,Mauritius
 Mayotte,
 Mexico,Mexico
 "Micronesia, Federated States of","Micronesia, Fed. Sts."
+Federated States of Micronesia,"Micronesia, Fed. Sts."
 "Micronesia, Fed. Sts.","Micronesia, Fed. Sts."
 "Micronesia, Fed States of","Micronesia, Fed. Sts."
 Micronesia,"Micronesia, Fed. Sts."
@@ -227,6 +228,7 @@ Paraguay,Paraguay
 Peru,Peru
 Philippines,Philippines
 Pitcairn,
+Pitcairn Islands,
 Poland,Poland
 Portugal,Portugal
 Puerto Rico,Puerto Rico
@@ -237,10 +239,13 @@ Russian Federation,Russian Federation
 Russia,Russian Federation
 Rwanda,Rwanda
 Saint-Barthélemy,
+Saint Barthelemy,
 Saint Helena,
 Saint Kitts and Nevis,St. Kitts and Nevis
 Saint Lucia,St. Lucia
 Saint-Martin (French part),St. Martin (French part)
+Saint Martin,St. Martin (French part)
+Sint Maarten,
 Saint Pierre and Miquelon,
 Saint Vincent and Grenadines,St. Vincent and the Grenadines
 Saint Vincent and the Grenadines,St. Vincent and the Grenadines
@@ -264,7 +269,9 @@ Solomon Islands,Solomon Islands
 Somalia,Somalia
 South Africa,South Africa
 South Georgia and the South Sandwich Islands,
+South Georgia and the Islands,
 South Sudan,South Sudan
+S. Sudan,South Sudan
 Spain,Spain
 Sri Lanka,Sri Lanka
 Sudan,Sudan

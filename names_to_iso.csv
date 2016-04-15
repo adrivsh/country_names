@@ -16,6 +16,7 @@ Aruba,AW,ABW,533
 Australia,AU,AUS,36
 Austria,AT,AUT,40
 Azerbaijan,AZ,AZE,31
+"Bahamas, The",BS,BHS,44
 Bahamas,BS,BHS,44
 The Bahamas,BS,BHS,44
 Bahrain,BH,BHR,48
@@ -51,10 +52,12 @@ Chad,TD,TCD,148
 Chile,CL,CHL,152
 China,CN,CHN,156
 "Hong Kong, Special Administrative Region of China",HK,HKG,344
+"Hong Kong SAR, China",HK,HKG,344
 Hong Kong S.A.R.,HK,HKG,344
 Hong Kong,HK,HKG,344
 Hong Kong (China),HK,HKG,344
 "Macao, Special Administrative Region of China",MO,MAC,446
+"Macao SAR, China",MO,MAC,446
 Macao S.A.R,MO,MAC,446
 Macao,MO,MAC,446
 Macau,MO,MAC,446
@@ -66,6 +69,7 @@ Congo (Brazzaville),CG,COG,178
 Congo,CG,COG,178
 Republic of the Congo,CG,COG,178
 "Congo, Rep.",CG,COG,178
+"Congo, Republic",CG,COG,178
 Republic of Congo,CG,COG,178
 "Congo, Democratic Republic of the",CD,COD,180
 "Congo, the Democratic Republic of the",CD,COD,180
@@ -78,6 +82,7 @@ Cook islands,CK,COK,184
 Costa Rica,CR,CRI,188
 Cote d'Ivoire,CI,CIV,384
 Cote d’Ivoire,CI,CIV,384
+Cote D’Ivoire,CI,CIV,384
 Côte d’Ivoire,CI,CIV,384
 Côte d'Ivoire,CI,CIV,384
 C“te d'Ivoire,CI,CIV,384
@@ -225,6 +230,7 @@ Pakistan,PK,PAK,586
 Palau,PW,PLW,585
 "Palestinian Territory, Occupied",PS,PSE,275
 "Palestine, State of",PS,PSE,275
+West Bank and Gaza,PS,PSE,275
 Panama,PA,PAN,591
 Papua New Guinea,PG,PNG,598
 Paraguay,PY,PRY,600

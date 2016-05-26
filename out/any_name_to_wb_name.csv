@@ -18,6 +18,8 @@ Austria,Austria
 Azerbaijan,Azerbaijan
 Bahamas,"Bahamas, The"
 The Bahamas,"Bahamas, The"
+"Bahamas, The","Bahamas, The"
+"Bahamas, the","Bahamas, The"
 Bahrain,Bahrain
 Bangladesh,Bangladesh
 Barbados,Barbados
@@ -52,10 +54,11 @@ Chile,Chile
 China,China
 "Hong Kong, Special Administrative Region of China","Hong Kong SAR, China"
 Hong Kong S.A.R.,"Hong Kong SAR, China"
+"Hong Kong SAR, China","Hong Kong SAR, China"
 Hong Kong,"Hong Kong SAR, China"
 Hong Kong (China),"Hong Kong SAR, China"
 "Macao, Special Administrative Region of China","Macao SAR, China"
-Macao S.A.R,"Macao SAR, China"
+"Macao SAR, China","Macao SAR, China"
 Macau S.A.R,"Macao SAR, China"
 Macao,"Macao SAR, China"
 Macau,"Macao SAR, China"
@@ -137,6 +140,8 @@ India,India
 Indonesia,Indonesia
 Iran,"Iran, Islamic Rep."
 "Iran, Islamic Republic of","Iran, Islamic Rep."
+"Iran, Islamic Republic","Iran, Islamic Rep."
+"Iran, Islamic Rep.","Iran, Islamic Rep."
 "Iran, Islamic Rep of","Iran, Islamic Rep."
 Iraq,Iraq
 Ireland,Ireland
@@ -155,6 +160,7 @@ Kosovo,
 North Korea,"Korea, Dem. Rep."
 "Korea, Republic of","Korea, Rep."
 "Korea, Rep of","Korea, Rep."
+"Korea, Rep.","Korea, Rep."
 South Korea,"Korea, Rep."
 Kuwait,Kuwait
 Kyrgyzstan,Kyrgyz Republic
@@ -175,6 +181,7 @@ Luxembourg,Luxembourg
 The former Yugoslav Republic of Macedonia,"Macedonia, FYR"
 The Former Yugoslav Republic  of Macedonia,"Macedonia, FYR"
 "Macedonia, the former Yugoslav Republic of","Macedonia, FYR"
+"Macedonia, FYR","Macedonia, FYR"
 "Macedonia, Republic of","Macedonia, FYR"
 Macedonia,"Macedonia, FYR"
 Madagascar,Madagascar
@@ -223,6 +230,7 @@ Pakistan,Pakistan
 Palau,Palau
 "Palestinian Territory, Occupied",West Bank and Gaza
 "Palestine, State of",West Bank and Gaza
+West Bank and Gaza,West Bank and Gaza
 Panama,Panama
 Papua New Guinea,Papua New Guinea
 Paraguay,Paraguay
@@ -243,13 +251,16 @@ Saint-Barthélemy,
 Saint Barthelemy,
 Saint Helena,
 Saint Kitts and Nevis,St. Kitts and Nevis
+St. Kitts and Nevis,St. Kitts and Nevis
 Saint Lucia,St. Lucia
+St. Lucia,St. Lucia
 Saint-Martin (French part),St. Martin (French part)
 Saint Martin,St. Martin (French part)
 Sint Maarten,
 Saint Pierre and Miquelon,
 Saint Vincent and Grenadines,St. Vincent and the Grenadines
 Saint Vincent and the Grenadines,St. Vincent and the Grenadines
+St. Vincent and the Grenadines,St. Vincent and the Grenadines
 St Vincent and the Grenadines,St. Vincent and the Grenadines
 Samoa,Samoa
 Western Samoa,Samoa
@@ -317,6 +328,7 @@ Uzbekistan,Uzbekistan
 Vanuatu,Vanuatu
 Venezuela (Bolivarian Republic of),"Venezuela, RB"
 "Venezuela, Bolivarian Republic of","Venezuela, RB"
+"Venezuela, RB","Venezuela, RB"
 Venezuela,"Venezuela, RB"
 Viet Nam,Vietnam
 Vietnam,Vietnam

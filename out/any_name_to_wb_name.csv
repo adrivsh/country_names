@@ -30,6 +30,7 @@ Benin,Benin
 Bermuda,Bermuda
 Bhutan,Bhutan
 Bolivia,Bolivia
+Bolivia (Plurinational State of),Bolivia
 Bosnia and Herzegovina,Bosnia and Herzegovina
 Botswana,Botswana
 Bouvet Island,
@@ -57,11 +58,12 @@ Hong Kong S.A.R.,"Hong Kong SAR, China"
 "Hong Kong SAR, China","Hong Kong SAR, China"
 Hong Kong,"Hong Kong SAR, China"
 Hong Kong (China),"Hong Kong SAR, China"
+"China, Hong Kong Special Administrative Region","Hong Kong SAR, China"
 "Macao, Special Administrative Region of China","Macao SAR, China"
 "Macao SAR, China","Macao SAR, China"
 Macau S.A.R,"Macao SAR, China"
 Macao,"Macao SAR, China"
-Macau,"Macao SAR, China"
+"China, Macao Special Administrative Region","Macao SAR, China"
 Christmas Island,
 Cocos (Keeling) Islands,
 Colombia,Colombia
@@ -105,6 +107,7 @@ Ethiopia,Ethiopia
 Falkland Islands (Malvinas),
 Falkland Islands,
 Faroe Islands,Faeroe Islands
+Faeroe Islands,Faeroe Islands
 Fiji,Fiji
 Finland,Finland
 France,France
@@ -143,6 +146,7 @@ Iran,"Iran, Islamic Rep."
 "Iran, Islamic Republic","Iran, Islamic Rep."
 "Iran, Islamic Rep.","Iran, Islamic Rep."
 "Iran, Islamic Rep of","Iran, Islamic Rep."
+Iran (Islamic Republic of),"Iran, Islamic Rep."
 Iraq,Iraq
 Ireland,Ireland
 Isle of Man,Isle of Man
@@ -156,10 +160,12 @@ Kazakhstan,Kazakhstan
 Kenya,Kenya
 Kiribati,Kiribati
 "Korea, Democratic People's Republic of","Korea, Dem. Rep."
-Kosovo,Kosovo
+Democratic People's Republic of Korea,"Korea, Dem. Rep."
 North Korea,"Korea, Dem. Rep."
+Kosovo,Kosovo
 "Korea, Republic of","Korea, Rep."
 "Korea, Rep of","Korea, Rep."
+Republic of Korea,"Korea, Rep."
 "Korea, Rep.","Korea, Rep."
 South Korea,"Korea, Rep."
 Kuwait,Kuwait
@@ -201,8 +207,10 @@ Federated States of Micronesia,"Micronesia, Fed. Sts."
 "Micronesia, Fed. Sts.","Micronesia, Fed. Sts."
 "Micronesia, Fed States of","Micronesia, Fed. Sts."
 Micronesia,"Micronesia, Fed. Sts."
+Micronesia (Federated States of),"Micronesia, Fed. Sts."
 Moldova,Moldova
 "Moldova, Republic of",Moldova
+Republic of Moldova,Moldova
 Monaco,Monaco
 Mongolia,Mongolia
 Montenegro,Montenegro
@@ -230,6 +238,7 @@ Pakistan,Pakistan
 Palau,Palau
 "Palestinian Territory, Occupied",West Bank and Gaza
 "Palestine, State of",West Bank and Gaza
+State of Palestine,West Bank and Gaza
 West Bank and Gaza,West Bank and Gaza
 Panama,Panama
 Papua New Guinea,Papua New Guinea
@@ -319,6 +328,7 @@ Uganda,Uganda
 Ukraine,Ukraine
 United Arab Emirates,United Arab Emirates
 United Kingdom,United Kingdom
+United Kingdom of Great Britain and Northern Ireland,United Kingdom
 United States of America,United States
 United States,United States
 USA,United States

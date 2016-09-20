@@ -32,6 +32,7 @@ Bhutan,BT,BTN,64
 Bolivia,BO,BOL,68
 Bolivia (Plurinational State of),BO,BOL,68
 Bosnia and Herzegovina,BA,BIH,70
+Bosnia a.Herzegov.,BA,BIH,70
 Botswana,BW,BWA,72
 Bouvet Island,BV,BVT,74
 Brazil,BR,BRA,76
@@ -50,6 +51,7 @@ Cape Verde,CV,CPV,132
 Cabo Verde,CV,CPV,132
 Cayman Islands,KY,CYM,136
 Central African Republic,CF,CAF,140
+Centr. Afr. Republic,CF,CAF,140
 Chad,TD,TCD,148
 Chile,CL,CHL,152
 China,CN,CHN,156
@@ -98,6 +100,7 @@ Denmark,DK,DNK,208
 Djibouti,DJ,DJI,262
 Dominica,DM,DMA,212
 Dominican Republic,DO,DOM,214
+Dominican Rep.,DO,DOM,214
 Ecuador,EC,ECU,218
 Egypt,EG,EGY,818
 "Egypt, Arab Rep.",EG,EGY,818
@@ -149,6 +152,7 @@ Iran,IR,IRN,364
 "Iran, Islamic Rep.",IR,IRN,364
 "Iran, Islamic Rep of",IR,IRN,364
 Iran (Islamic Republic of),IR,IRN,364
+Iran (Islamic Rep.),IR,IRN,364
 Iraq,IQ,IRQ,368
 Ireland,IE,IRL,372
 Isle of Man,IM,IMN,833
@@ -177,16 +181,19 @@ Laos,LA,LAO,418
 Lao PDR,LA,LAO,418
 Lao People’s Democratic Republic,LA,LAO,418
 Lao People's Democratic Republic,LA,LAO,418
+Lao P. D. Republic,LA,LAO,418
 Latvia,LV,LVA,428
 Lebanon,LB,LBN,422
 Lesotho,LS,LSO,426
 Liberia,LR,LBR,430
 Libya,LY,LBY,434
 Libyan Arab Jamahiriya,LY,LBY,434
+Libyan Arab Jam.,LY,LBY,434
 Liechtenstein,LI,LIE,438
 Lithuania,LT,LTU,440
 Luxembourg,LU,LUX,442
 The former Yugoslav Republic of Macedonia,MK,MKD,807
+The f. Yugoslav Rep. of Macedonia,MK,MKD,807
 The Former Yugoslav Republic  of Macedonia,MK,MKD,807
 "Macedonia, the former Yugoslav Republic of",MK,MKD,807
 "Macedonia, FYR",MK,MKD,807
@@ -211,6 +218,7 @@ Federated States of Micronesia,FM,FSM,583
 Micronesia,FM,FSM,583
 Micronesia (Federated States of),FM,FSM,583
 Moldova,MD,MDA,498
+Rep. of Moldova,MD,MDA,498
 "Moldova, Republic of",MD,MDA,498
 Republic of Moldova,MD,MDA,498
 Monaco,MC,MCO,492
@@ -244,6 +252,7 @@ State of Palestine,PS,PSE,275
 West Bank and Gaza,PS,PSE,275
 Panama,PA,PAN,591
 Papua New Guinea,PG,PNG,598
+Papua N. Guinea,PG,PNG,598
 Paraguay,PY,PRY,600
 Peru,PE,PER,604
 Philippines,PH,PHL,608
@@ -304,6 +313,7 @@ Swaziland,SZ,SWZ,748
 Sweden,SE,SWE,752
 Switzerland,CH,CHE,756
 Syrian Arab Republic (Syria),SY,SYR,760
+Syrian Arab Rep.,SY,SYR,760
 Syria,SY,SYR,760
 Syrian Arab Republic,SY,SYR,760
 "Taiwan, Republic of China",TW,TWN,158

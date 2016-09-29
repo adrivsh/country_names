@@ -57,6 +57,7 @@ Chile,CL,CHL,152
 China,CN,CHN,156
 "Hong Kong, Special Administrative Region of China",HK,HKG,344
 Hong Kong S.A.R.,HK,HKG,344
+Hong Kong SAR,HK,HKG,344
 "Hong Kong SAR, China",HK,HKG,344
 Hong Kong,HK,HKG,344
 Hong Kong (China),HK,HKG,344
@@ -75,6 +76,7 @@ Congo (Brazzaville),CG,COG,178
 Congo,CG,COG,178
 Republic of the Congo,CG,COG,178
 "Congo, Rep.",CG,COG,178
+"Congo, Republic of",CG,COG,178
 Republic of Congo,CG,COG,178
 "Congo, Democratic Republic of the",CD,COD,180
 "Congo, the Democratic Republic of the",CD,COD,180
@@ -91,6 +93,7 @@ Cote d’Ivoire,CI,CIV,384
 Côte d’Ivoire,CI,CIV,384
 Côte d'Ivoire,CI,CIV,384
 C“te d'Ivoire,CI,CIV,384
+C?te d'Ivoire,CI,CIV,384
 Ivory Coast,CI,CIV,384
 Croatia,HR,HRV,191
 Cuba,CU,CUB,192
@@ -170,6 +173,7 @@ Democratic People's Republic of Korea,KP,PRK,408
 North Korea,KP,PRK,408
 Kosovo,XK,KOS,
 "Korea, Republic of",KR,KOR,410
+Korea,KR,KOR,410
 "Korea, Rep of",KR,KOR,410
 Republic of Korea,KR,KOR,410
 "Korea, Rep.",KR,KOR,410
@@ -193,6 +197,7 @@ Liechtenstein,LI,LIE,438
 Lithuania,LT,LTU,440
 Luxembourg,LU,LUX,442
 The former Yugoslav Republic of Macedonia,MK,MKD,807
+FYR Macedonia,MK,MKD,807
 The f. Yugoslav Rep. of Macedonia,MK,MKD,807
 The Former Yugoslav Republic  of Macedonia,MK,MKD,807
 "Macedonia, the former Yugoslav Republic of",MK,MKD,807
@@ -224,6 +229,7 @@ Republic of Moldova,MD,MDA,498
 Monaco,MC,MCO,492
 Mongolia,MN,MNG,496
 Montenegro,ME,MNE,499
+"Montenegro, Rep. of",ME,MNE,499
 Montserrat,MS,MSR,500
 Morocco,MA,MAR,504
 Mozambique,MZ,MOZ,508
@@ -317,6 +323,8 @@ Syrian Arab Rep.,SY,SYR,760
 Syria,SY,SYR,760
 Syrian Arab Republic,SY,SYR,760
 "Taiwan, Republic of China",TW,TWN,158
+"Taiwan Province of China, Rep. of",TW,TWN,158
+"Taiwan Province of China",TW,TWN,158
 Taiwan,TW,TWN,158
 Tajikistan,TJ,TJK,762
 "Tanzania, United Republic of",TZ,TZA,834

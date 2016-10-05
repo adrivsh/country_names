@@ -10,6 +10,7 @@ Angola,AO,AGO,24
 Anguilla,AI,AIA,660
 Antarctica,AQ,ATA,10
 Antigua and Barbuda,AG,ATG,28
+Antigua & Barbuda,AG,ATG,28
 Argentina,AR,ARG,32
 Armenia,AM,ARM,51
 Aruba,AW,ABW,533
@@ -31,7 +32,10 @@ Bermuda,BM,BMU,60
 Bhutan,BT,BTN,64
 Bolivia,BO,BOL,68
 Bolivia (Plurinational State of),BO,BOL,68
+Plurinational State of Bolivia,BO,BOL,68
 Bosnia and Herzegovina,BA,BIH,70
+Bosnia & Herzegovina,BA,BIH,70
+Bosnia-Herzegovina,BA,BIH,70
 Bosnia a.Herzegov.,BA,BIH,70
 Botswana,BW,BWA,72
 Bouvet Island,BV,BVT,74
@@ -46,6 +50,7 @@ Burkina Faso,BF,BFA,854
 Burundi,BI,BDI,108
 Cambodia,KH,KHM,116
 Cameroon,CM,CMR,120
+Republic of Cameroon,CM,CMR,120
 Canada,CA,CAN,124
 Cape Verde,CV,CPV,132
 Cabo Verde,CV,CPV,132
@@ -56,6 +61,7 @@ Chad,TD,TCD,148
 Chile,CL,CHL,152
 China,CN,CHN,156
 "Hong Kong, Special Administrative Region of China",HK,HKG,344
+HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA,HK,HKG,344
 Hong Kong S.A.R.,HK,HKG,344
 Hong Kong SAR,HK,HKG,344
 "Hong Kong SAR, China",HK,HKG,344
@@ -65,6 +71,7 @@ Hong Kong (China),HK,HKG,344
 "Macao, Special Administrative Region of China",MO,MAC,446
 "Macao SAR, China",MO,MAC,446
 Macau S.A.R,MO,MAC,446
+Macau S.A.R.,MO,MAC,446
 Macau,MO,MAC,446
 Macao,MO,MAC,446
 "China, Macao Special Administrative Region",MO,MAC,446
@@ -78,6 +85,7 @@ Republic of the Congo,CG,COG,178
 "Congo, Rep.",CG,COG,178
 "Congo, Republic of",CG,COG,178
 Republic of Congo,CG,COG,178
+"Congo, Democratic Republic",CD,COD,180
 "Congo, Democratic Republic of the",CD,COD,180
 "Congo, the Democratic Republic of the",CD,COD,180
 Democratic Republic of the Congo,CD,COD,180
@@ -94,6 +102,7 @@ Côte d’Ivoire,CI,CIV,384
 Côte d'Ivoire,CI,CIV,384
 C“te d'Ivoire,CI,CIV,384
 C?te d'Ivoire,CI,CIV,384
+Cote d Ivoire,CI,CIV,384
 Ivory Coast,CI,CIV,384
 Croatia,HR,HRV,191
 Cuba,CU,CUB,192
@@ -102,6 +111,7 @@ Czech Republic,CZ,CZE,203
 Denmark,DK,DNK,208
 Djibouti,DJ,DJI,262
 Dominica,DM,DMA,212
+Commonwealth of Dominica,DM,DMA,212
 Dominican Republic,DO,DOM,214
 Dominican Rep.,DO,DOM,214
 Ecuador,EC,ECU,218
@@ -150,6 +160,7 @@ Iceland,IS,ISL,352
 India,IN,IND,356
 Indonesia,ID,IDN,360
 Iran,IR,IRN,364
+ISLAMIC REPUBLIC OF IRAN,IR,IRN,364
 "Iran, Islamic Republic of",IR,IRN,364
 "Iran, Islamic Republic",IR,IRN,364
 "Iran, Islamic Rep.",IR,IRN,364
@@ -161,6 +172,7 @@ Ireland,IE,IRL,372
 Isle of Man,IM,IMN,833
 Israel,IL,ISR,376
 Italy,IT,ITA,380
+ITALY (INCLUDING SAN MARINO),IT,ITA,380
 Jamaica,JM,JAM,388
 Japan,JP,JPN,392
 Jersey,JE,JEY,832
@@ -169,7 +181,9 @@ Kazakhstan,KZ,KAZ,398
 Kenya,KE,KEN,404
 Kiribati,KI,KIR,296
 "Korea, Democratic People's Republic of",KP,PRK,408
+"Korea, Dem. People's Rep. of",KP,PRK,408
 Democratic People's Republic of Korea,KP,PRK,408
+Democratic People s Republic of Korea,KP,PRK,408
 North Korea,KP,PRK,408
 Kosovo,XK,KOS,
 "Korea, Republic of",KR,KOR,410
@@ -185,6 +199,7 @@ Laos,LA,LAO,418
 Lao PDR,LA,LAO,418
 Lao People’s Democratic Republic,LA,LAO,418
 Lao People's Democratic Republic,LA,LAO,418
+Lao People s Democratic Republic,LA,LAO,418
 Lao P. D. Republic,LA,LAO,418
 Latvia,LV,LVA,428
 Lebanon,LB,LBN,422
@@ -192,6 +207,7 @@ Lesotho,LS,LSO,426
 Liberia,LR,LBR,430
 Libya,LY,LBY,434
 Libyan Arab Jamahiriya,LY,LBY,434
+Libyan Arab Jamahiriyah,LY,LBY,434
 Libyan Arab Jam.,LY,LBY,434
 Liechtenstein,LI,LIE,438
 Lithuania,LT,LTU,440
@@ -218,6 +234,7 @@ Mayotte,YT,MYT,175
 Mexico,MX,MEX,484
 "Micronesia, Federated States of",FM,FSM,583
 Federated States of Micronesia,FM,FSM,583
+Federated State of Micronesia,FM,FSM,583
 "Micronesia, Fed. Sts.",FM,FSM,583
 "Micronesia, Fed States of",FM,FSM,583
 Micronesia,FM,FSM,583
@@ -253,6 +270,7 @@ Oman,OM,OMN,512
 Pakistan,PK,PAK,586
 Palau,PW,PLW,585
 "Palestinian Territory, Occupied",PS,PSE,275
+Occupied Palestinian Territory,PS,PSE,275
 "Palestine, State of",PS,PSE,275
 State of Palestine,PS,PSE,275
 West Bank and Gaza,PS,PSE,275
@@ -308,10 +326,12 @@ Somalia,SO,SOM,706
 South Africa,ZA,ZAF,710
 South Georgia and the South Sandwich Islands,GS,SGS,239
 South Georgia and the Islands,GS,SGS,239
+Republic of South Sudan,SS,SSD,728
 South Sudan,SS,SSD,728
 S. Sudan,SS,SSD,728
 Spain,ES,ESP,724
 Sri Lanka,LK,LKA,144
+Republic of Sudan,SD,SDN,736
 Sudan,SD,SDN,736
 Suriname,SR,SUR,740
 Svalbard and Jan Mayen Islands,SJ,SJM,744
@@ -329,6 +349,7 @@ Taiwan,TW,TWN,158
 Tajikistan,TJ,TJK,762
 "Tanzania, United Republic of",TZ,TZA,834
 United Republic of Tanzania,TZ,TZA,834
+United Rep. of Tanzania,TZ,TZA,834
 "Tanzania, United Rep of",TZ,TZA,834
 "Tanzania, United Rep.",TZ,TZA,834
 Tanzania,TZ,TZA,834

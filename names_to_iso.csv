@@ -32,6 +32,7 @@ Bermuda,BM,BMU,60
 Bhutan,BT,BTN,64
 Bolivia,BO,BOL,68
 Bolivia (Plurinational State of),BO,BOL,68
+"Bolivia, Plurinational State of",BO,BOL,68
 Plurinational State of Bolivia,BO,BOL,68
 Bosnia and Herzegovina,BA,BIH,70
 Bosnia & Herzegovina,BA,BIH,70
@@ -84,6 +85,7 @@ Congo,CG,COG,178
 Republic of the Congo,CG,COG,178
 "Congo, Rep.",CG,COG,178
 "Congo, Republic of",CG,COG,178
+"Congo, the Democratic Republic of",CG,COG,178
 Republic of Congo,CG,COG,178
 "Congo, Democratic Republic",CD,COD,180
 "Congo, Democratic Republic of the",CD,COD,180
@@ -181,6 +183,7 @@ Kazakhstan,KZ,KAZ,398
 Kenya,KE,KEN,404
 Kiribati,KI,KIR,296
 "Korea, Democratic People's Republic of",KP,PRK,408
+"Korea, Democratic People's Republ",KP,PRK,408
 "Korea, Dem. People's Rep. of",KP,PRK,408
 Democratic People's Republic of Korea,KP,PRK,408
 Democratic People s Republic of Korea,KP,PRK,408

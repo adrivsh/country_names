@@ -1,5 +1,6 @@
 country,iso2,iso3,isonum
 Afghanistan,AF,AFG,4
+"Afghanistan, islamic republic of",AF,AFG,4
 Aland Islands,AX,ALA,248
 Aland,AX,ALA,248
 Albania,AL,ALB,8
@@ -13,15 +14,18 @@ Antigua and Barbuda,AG,ATG,28
 Antigua & Barbuda,AG,ATG,28
 Argentina,AR,ARG,32
 Armenia,AM,ARM,51
+"Armenia, Republic of",AM,ARM,51
 Aruba,AW,ABW,533
 Australia,AU,AUS,36
 Austria,AT,AUT,40
 Azerbaijan,AZ,AZE,31
+"Azerbaijan, Republic of",AZ,AZE,31
 Bahamas,BS,BHS,44
 The Bahamas,BS,BHS,44
 "Bahamas, The",BS,BHS,44
 "Bahamas, the",BS,BHS,44
 Bahrain,BH,BHR,48
+"Bahrain, Kingdom of",BH,BHR,48
 Bangladesh,BD,BGD,50
 Barbados,BB,BRB,52
 Belarus,BY,BLR,112
@@ -61,7 +65,9 @@ Centr. Afr. Republic,CF,CAF,140
 Chad,TD,TCD,148
 Chile,CL,CHL,152
 China,CN,CHN,156
+"china, p.r.: mainland",CN,CHN,156
 "Hong Kong, Special Administrative Region of China",HK,HKG,344
+"china, p.r.: hong kong",HK,HKG,344
 HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA,HK,HKG,344
 Hong Kong S.A.R.,HK,HKG,344
 Hong Kong SAR,HK,HKG,344
@@ -71,6 +77,7 @@ Hong Kong (China),HK,HKG,344
 "China, Hong Kong Special Administrative Region",HK,HKG,344
 "Macao, Special Administrative Region of China",MO,MAC,446
 "Macao SAR, China",MO,MAC,446
+"china, p.r.: macao",MO,MAC,446
 Macau S.A.R,MO,MAC,446
 Macau S.A.R.,MO,MAC,446
 Macau,MO,MAC,446
@@ -230,6 +237,7 @@ Maldives,MV,MDV,462
 Mali,ML,MLI,466
 Malta,MT,MLT,470
 Marshall Islands,MH,MHL,584
+"Marshall Islands, republic of",MH,MHL,584
 Martinique,MQ,MTQ,474
 Mauritania,MR,MRT,478
 Mauritius,MU,MUS,480
@@ -318,6 +326,7 @@ Saudi Arabia,SA,SAU,682
 Senegal,SN,SEN,686
 Serbia,RS,SRB,688
 Republic of Serbia,RS,SRB,688
+"Serbia, republic of",RS,SRB,688
 Seychelles,SC,SYC,690
 Sierra Leone,SL,SLE,694
 Singapore,SG,SGP,702
@@ -358,6 +367,7 @@ United Rep. of Tanzania,TZ,TZA,834
 Tanzania,TZ,TZA,834
 Thailand,TH,THA,764
 Timor-Leste,TL,TLS,626
+"Timor-Leste, dem. rep. of",TL,TLS,626
 East Timor,TL,TLS,626
 Togo,TG,TGO,768
 Tokelau,TK,TKL,772
@@ -393,6 +403,7 @@ Wallis and Futuna Islands,WF,WLF,876
 Wallis and Futuna,WF,WLF,876
 Western Sahara,EH,ESH,732
 Yemen,YE,YEM,887
+"Yemen, republic of",YE,YEM,887
 "Yemen, Rep.",YE,YEM,887
 Zambia,ZM,ZMB,894
 Zimbabwe,ZW,ZWE,716

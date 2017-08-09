@@ -1,133 +1,141 @@
-gtap_region,name
-ASM,ASM
-COK,COK
-FJI,FJI
-FSM,FSM
-GUM,GUM
-KIR,KIR
-MHL,MHL
-MNP,MNP
-NCL,NCL
-NFK,NFK
-NIU,NIU
-NRU,NRU
-PLW,PLW
-PNG,PNG
-PYF,PYF
-SLB,SLB
-TKL,TKL
-TON,TON
-TUV,TUV
-VUT,VUT
-WLF,WLF
-WSM,WSM
-MAC,MAC
-MNG,MNG
-PRK,PRK
-AFG,AFG
-BTN,BTN
-MDV,MDV
-NPL,NPL
-BRN,BRN
-TLS,TLS
-BMU,BMU
-GRL,GRL
-SPM,SPM
-FLK,FLK
-GUF,GUF
-GUY,GUY
-SUR,SUR
-BLZ,BLZ
-HND,HND
-SLV,SLV
-ABW,ABW
-AIA,AIA
-ANT,ANT
-ATG,ATG
-BHS,BHS
-BRB,BRB
-CUB,CUB
-CYM,CYM
-DMA,DMA
-DOM,DOM
-GLP,GLP
-GRD,GRD
-HTI,HTI
-JAM,JAM
-KNA,KNA
-LCA,LCA
-MSR,MSR
-MTQ,MTQ
-PRI,PRI
-TCA,TCA
-TTO,TTO
-VCT,VCT
-VGB,VGB
-VIR,VIR
-ISL,ISL
-LIE,LIE
-MDA,MDA
-AND,AND
-BIH,BIH
-FRO,FRO
-GIB,GIB
-MCO,MCO
-MKD,MKD
-SMR,SMR
-SCG,Serbia and Montenegro
-TJK,TJK
-TKM,TKM
-UZB,UZB
-ARE,ARE
-BHR,BHR
-IRQ,IRQ
-ISR,ISR
-JOR,JOR
-KWT,KWT
-LBN,LBN
-OMN,OMN
-PSE,PSE
-QAT,QAT
-SAU,SAU
-SYR,SYR
-YEM,YEM
-DZA,DZA
-LBY,LBY
-BEN,BEN
-BFA,BFA
-CIV,CIV
-CPV,CPV
-GHA,GHA
-GIN,GIN
-GMB,GMB
-GNB,GNB
-LBR,LBR
-MLI,MLI
-MRT,MRT
-NER,NER
-SHN,SHN
-SLE,SLE
-TGO,TGO
-CAF,CAF
-CMR,CMR
-COG,COG
-GAB,GAB
-GNQ,GNQ
-STP,STP
-TCD,TCD
-AGO,AGO
-COD,COD
-BDI,BDI
-COM,COM
-DJI,DJI
-ERI,ERI
-KEN,KEN
-MYT,MYT
-REU,REU
-RWA,RWA
-SDN,SDN
-SOM,SOM
-SYC,SYC
-LSO,LSO
-NAM,NAM
-SWZ,SWZ
+gtap_region,code
+Australia,AUS
+New Zealand,NZL
+Rest of Oceania,XOC
+China,CHN
+"Hong Kong, Special Administrative Region of China",HKG
+Japan,JPN
+South Korea,KOR
+Mongolia,MNG
+"Taiwan, Republic of China",TWN
+Rest of East Asia,XEA
+Brunei Darussalam,BRN
+Cambodia,KHM
+Indonesia,IDN
+Laos,LAO
+Malaysia,MYS
+Philippines,PHL
+Singapore,SGP
+Thailand,THA
+Vietnam,VNM
+Rest of Southeast Asia,XSE
+Bangladesh,BGD
+India,IND
+Nepal,NPL
+Pakistan,PAK
+Sri Lanka,LKA
+Rest of South Asia,XSA
+Canada,CAN
+United States of America,USA
+Mexico,MEX
+Rest of North America,XNA
+Argentina,ARG
+Bolivia,BOL
+Brazil,BRA
+Chile,CHL
+Colombia,COL
+Ecuador,ECU
+Paraguay,PRY
+Peru,PER
+Uruguay,URY
+Venezuela (Bolivarian Republic of),VEN
+Rest of South America,XSM
+Costa Rica,CRI
+Guatemala,GTM
+Honduras,HND
+Nicaragua,NIC
+Panama,PAN
+El Salvador,SLV
+Rest of Central America,XCA
+Dominican Republic,DOM
+Jamaica,JAM
+Puerto Rico,PRI
+Trinidad and Tobago,TTO
+Caribbean,XCB
+Austria,AUT
+Belgium,BEL
+Cyprus,CYP
+Czech Republic,CZE
+Denmark,DNK
+Estonia,EST
+Finland,FIN
+France,FRA
+Germany,DEU
+Greece,GRC
+Hungary,HUN
+Ireland,IRL
+Italy,ITA
+Latvia,LVA
+Lithuania,LTU
+Luxembourg,LUX
+Malta,MLT
+Netherlands,NLD
+Poland,POL
+Portugal,PRT
+Slovakia,SVK
+Slovenia,SVN
+Spain,ESP
+Sweden,SWE
+United Kingdom,GBR
+Switzerland,CHE
+Norway,NOR
+Rest of EFTA,XEF
+Albania,ALB
+Bulgaria,BGR
+Belarus,BLR
+Croatia,HRV
+Romania,ROU
+Russian Federation,RUS
+Ukraine,UKR
+Rest of Eastern Europe,XEE
+Rest of Europe,XER
+Kazakhstan,KAZ
+Kyrgyzstan,KGZ
+Rest of Former Soviet Union,XSU
+Armenia,ARM
+Azerbaijan,AZE
+Georgia,GEO
+Bahrain,BHR
+Iran,IRN
+Israel,ISR
+Jordan,JOR
+Kuwait,KWT
+Oman,OMN
+Qatar,QAT
+Saudi Arabia,SAU
+Turkey,TUR
+United Arab Emirates,ARE
+Rest of Western Asia,XWS
+Egypt,EGY
+Morocco,MAR
+Tunisia,TUN
+Rest of North Africa,XNF
+Benin,BEN
+Burkina Faso,BFA
+Cameroon,CMR
+Cote dIvoire,CIV
+Ghana,GHA
+Guinea,GIN
+Nigeria,NGA
+Senegal,SEN
+Togo,TGO
+Rest of Western Africa,XWF
+Central Africa,XCF
+South Central Africa,XAC
+Ethiopia,ETH
+Kenya,KEN
+Madagascar,MDG
+Malawi,MWI
+Mauritius,MUS
+Mozambique,MOZ
+Rwanda,RWA
+Tanzania,TZA
+Uganda,UGA
+Zambia,ZMB
+Zimbabwe,ZWE
+Rest of Eastern Africa,XEC
+Botswana,BWA
+Namibia,NAM
+South Africa,ZAF
+Rest of South African Customs Union,XSC
+Rest of the World,XTW

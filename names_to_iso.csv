@@ -192,11 +192,13 @@ Kiribati,KI,KIR,296
 "Korea, Democratic People's Republic of",KP,PRK,408
 "Korea, Democratic People's Republ",KP,PRK,408
 "Korea, Dem. People's Rep. of",KP,PRK,408
+"Korea, Dem. Rep. (North)",KP,PRK,408
 Democratic People's Republic of Korea,KP,PRK,408
 Democratic People s Republic of Korea,KP,PRK,408
 North Korea,KP,PRK,408
 Kosovo,XK,KOS,
 "Korea, Republic of",KR,KOR,410
+"Korea, Rep. (South)",KR,KOR,410
 Korea,KR,KOR,410
 "Korea, Rep of",KR,KOR,410
 Republic of Korea,KR,KOR,410
@@ -306,6 +308,7 @@ Saint-Barthélemy,BL,BLM,652
 Saint Barthelemy,BL,BLM,652
 Saint Helena,SH,SHN,654
 Saint Kitts and Nevis,KN,KNA,659
+Saint Kitts & Nevis,KN,KNA,659
 St. Kitts and Nevis,KN,KNA,659
 Saint Lucia,LC,LCA,662
 St. Lucia,LC,LCA,662

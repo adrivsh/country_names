@@ -1,133 +1,141 @@
-gtap_region,name
-ASM,American Samoa
-COK,Cook Islands
-FJI,Fiji
-FSM,"Micronesia, Federated States of"
-GUM,Guam
-KIR,Kiribati
-MHL,Marshall Islands
-MNP,Northern Mariana Islands
-NCL,New Caledonia
-NFK,Norfolk Island
-NIU,Niue
-NRU,Nauru
-PLW,Palau
-PNG,Papua New Guinea
-PYF,French Polynesia
-SLB,Solomon Islands
-TKL,Tokelau
-TON,Tonga
-TUV,Tuvalu
-VUT,Vanuatu
-WLF,Wallis and Futuna
-WSM,Samoa
-MAC,Macao
+code,gtap_region
+AUS,Australia
+NZL,New Zealand
+XOC,Rest of Oceania
+CHN,China
+HKG,"Hong Kong, Special Administrative Region of China"
+JPN,Japan
+KOR,South Korea
 MNG,Mongolia
-PRK,"Korea, Democratic People's Republic of"
-AFG,Afghanistan
-BTN,Bhutan
-MDV,Maldives
-NPL,Nepal
+TWN,"Taiwan, Republic of China"
+XEA,Rest of East Asia
 BRN,Brunei Darussalam
-TLS,Timor-Leste
-BMU,Bermuda
-GRL,Greenland
-SPM,Saint Pierre and Miquelon
-FLK,Falkland Islands (Malvinas)
-GUF,French Guiana
-GUY,Guyana
-SUR,Suriname
-BLZ,Belize
+KHM,Cambodia
+IDN,Indonesia
+LAO,Laos
+MYS,Malaysia
+PHL,Philippines
+SGP,Singapore
+THA,Thailand
+VNM,Vietnam
+XSE,Rest of Southeast Asia
+BGD,Bangladesh
+IND,India
+NPL,Nepal
+PAK,Pakistan
+LKA,Sri Lanka
+XSA,Rest of South Asia
+CAN,Canada
+USA,United States of America
+MEX,Mexico
+XNA,Rest of North America
+ARG,Argentina
+BOL,Bolivia
+BRA,Brazil
+CHL,Chile
+COL,Colombia
+ECU,Ecuador
+PRY,Paraguay
+PER,Peru
+URY,Uruguay
+VEN,Venezuela (Bolivarian Republic of)
+XSM,Rest of South America
+CRI,Costa Rica
+GTM,Guatemala
 HND,Honduras
+NIC,Nicaragua
+PAN,Panama
 SLV,El Salvador
-ABW,Aruba
-AIA,Anguilla
-ANT,Netherlands Antilles
-ATG,Antigua and Barbuda
-BHS,Bahamas
-BRB,Barbados
-CUB,Cuba
-CYM,Cayman Islands
-DMA,Dominica
+XCA,Rest of Central America
 DOM,Dominican Republic
-GLP,Guadeloupe
-GRD,Grenada
-HTI,Haiti
 JAM,Jamaica
-KNA,Saint Kitts and Nevis
-LCA,Saint Lucia
-MSR,Montserrat
-MTQ,Martinique
 PRI,Puerto Rico
-TCA,Turks and Caicos Islands
 TTO,Trinidad and Tobago
-VCT,Saint Vincent and the Grenadines
-VGB,"Virgin Islands, British"
-VIR,"Virgin Islands, U.S."
-ISL,Iceland
-LIE,Liechtenstein
-MDA,Moldova
-AND,Andorra
-BIH,Bosnia and Herzegovina
-FRO,Faroe Islands
-GIB,Gibraltar
-MCO,Monaco
-MKD,"Macedonia, the former Yugoslav Republic of"
-SMR,San Marino
-SCG,Serbia and Montenegro
-TJK,Tajikistan
-TKM,Turkmenistan
-UZB,Uzbekistan
-ARE,United Arab Emirates
+XCB,Caribbean
+AUT,Austria
+BEL,Belgium
+CYP,Cyprus
+CZE,Czech Republic
+DNK,Denmark
+EST,Estonia
+FIN,Finland
+FRA,France
+DEU,Germany
+GRC,Greece
+HUN,Hungary
+IRL,Ireland
+ITA,Italy
+LVA,Latvia
+LTU,Lithuania
+LUX,Luxembourg
+MLT,Malta
+NLD,Netherlands
+POL,Poland
+PRT,Portugal
+SVK,Slovakia
+SVN,Slovenia
+ESP,Spain
+SWE,Sweden
+GBR,United Kingdom
+CHE,Switzerland
+NOR,Norway
+XEF,Rest of EFTA
+ALB,Albania
+BGR,Bulgaria
+BLR,Belarus
+HRV,Croatia
+ROU,Romania
+RUS,Russian Federation
+UKR,Ukraine
+XEE,Rest of Eastern Europe
+XER,Rest of Europe
+KAZ,Kazakhstan
+KGZ,Kyrgyzstan
+XSU,Rest of Former Soviet Union
+ARM,Armenia
+AZE,Azerbaijan
+GEO,Georgia
 BHR,Bahrain
-IRQ,Iraq
+IRN,Iran
 ISR,Israel
 JOR,Jordan
 KWT,Kuwait
-LBN,Lebanon
 OMN,Oman
-PSE,"Palestinian Territory, Occupied"
 QAT,Qatar
 SAU,Saudi Arabia
-SYR,Syrian Arab Republic
-YEM,Yemen
-DZA,Algeria
-LBY,Libyan Arab Jamahiriya
+TUR,Turkey
+ARE,United Arab Emirates
+XWS,Rest of Western Asia
+EGY,Egypt
+MAR,Morocco
+TUN,Tunisia
+XNF,Rest of North Africa
 BEN,Benin
 BFA,Burkina Faso
-CIV,Côte d'Ivoire
-CPV,Cape Verde
+CMR,Cameroon
+CIV,Cote dIvoire
 GHA,Ghana
 GIN,Guinea
-GMB,Gambia
-GNB,Guinea-Bissau
-LBR,Liberia
-MLI,Mali
-MRT,Mauritania
-NER,Niger
-SHN,Saint Helena
-SLE,Sierra Leone
+NGA,Nigeria
+SEN,Senegal
 TGO,Togo
-CAF,Central African Republic
-CMR,Cameroon
-COG,Congo
-GAB,Gabon
-GNQ,Equatorial Guinea
-STP,Sao Tome and Principe
-TCD,Chad
-AGO,Angola
-COD,"Congo, the Democratic Republic of the"
-BDI,Burundi
-COM,Comoros
-DJI,Djibouti
-ERI,Eritrea
+XWF,Rest of Western Africa
+XCF,Central Africa
+XAC,South Central Africa
+ETH,Ethiopia
 KEN,Kenya
-MYT,Mayotte
-REU,Réunion
+MDG,Madagascar
+MWI,Malawi
+MUS,Mauritius
+MOZ,Mozambique
 RWA,Rwanda
-SDN,Sudan
-SOM,Somalia
-SYC,Seychelles
-LSO,Lesotho
+TZA,Tanzania
+UGA,Uganda
+ZMB,Zambia
+ZWE,Zimbabwe
+XEC,Rest of Eastern Africa
+BWA,Botswana
 NAM,Namibia
-SWZ,Swaziland
+ZAF,South Africa
+XSC,Rest of South African Customs Union
+XTW,Rest of the World
